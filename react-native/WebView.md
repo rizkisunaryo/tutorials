@@ -1,5 +1,5 @@
 # Implementasi WebView di React Native Mode Release
-Apakah Anda menggunakan WebView di React Native? Berjalan dengan baik di mode Debug, namun tidak dapat berjalan di mode Relase? Berikut solusinya. Berikut adalah tutorialnya, dengan asumsi:
+Apakah Anda menggunakan WebView di React Native? Berjalan dengan baik di mode Debug, namun tidak dapat berjalan di mode Relase? Berikut solusinya, dengan asumsi:
 - Nama project-nya adalah RNProject
 - Lokasi file HTML berada dalam folder web (```RNProject/web```)
 - File HTML yang akan digunakan adalah index.html
